@@ -19,6 +19,9 @@ I think the research can be improve by refine the search parameters. For example
 The word clouds for "Renewable Energy" and "Clean Energy" showed unexpected variances, highlighting the crucial role terminology plays in forming the discourse surrounding sustainable energy. The non-renewable yet low-emission technologies that were included under "Clean Energy" were noteworthy; this suggests that this category takes a more comprehensive approach than was first thought. This emphasizes how carefully selecting search phrases and creating word clouds are necessary steps toward developing a thorough grasp of the intricate subject of sustainable energy.
 
 ![Renewable Energy Word Cloud](/Users/leozhang/Desktop/geog458/labs/lab02/Images/Renewable Energy.png)
+
 URL for Renewable Energy CSV: /Users/leozhang/Downloads/Renewable Energy.csv
+
 ![Clean Energy Word Cloud](/Users/leozhang/Desktop/geog458/labs/lab02/Images/Clean Energy.png)
+
 URL for Clean Energy CSV: /Users/leozhang/Downloads/Clean Energy.csv
