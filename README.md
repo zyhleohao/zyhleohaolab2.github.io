@@ -1,4 +1,4 @@
-[Renewable Energy.csv](https://github.com/zyhleohao/zyhleohaolab2.github.io/files/14070214/Renewable.Energy.csv)# GEOG458 Lab 2
+# GEOG458 Lab 2
 
 ## Q1
 The topic I choose is about the sustainable and environmentally friendly energy sources. The two parameters that I used for search are "Renewable Energy" and "Clean Energy".
@@ -20,9 +20,9 @@ The word clouds for "Renewable Energy" and "Clean Energy" showed unexpected vari
 
 ![Renewable Energy](https://github.com/zyhleohao/zyhleohaolab2.github.io/assets/129431505/31990c3f-e609-4fcd-882d-6bdb12b0449a)
 
-URL for Renewable Energy CSV: /Users/leozhang/Downloads/Renewable Energy.csv
+[Renewable Energy.csv](https://github.com/zyhleohao/zyhleohaolab2.github.io/files/14070214/Renewable.Energy.csv)
 
 
 ![Clean Energy](https://github.com/zyhleohao/zyhleohaolab2.github.io/assets/129431505/0c4ebada-d70b-4fdf-9774-805e723651c5)
 
-URL for Clean Energy CSV: /Users/leozhang/Downloads/Clean Energy.csv
+[Clean Energy.csv](https://github.com/zyhleohao/zyhleohaolab2.github.io/files/14070220/Clean.Energy.csv)
