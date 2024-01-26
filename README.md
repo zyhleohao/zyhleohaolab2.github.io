@@ -24,5 +24,6 @@ The word clouds for "Renewable Energy" and "Clean Energy" showed unexpected vari
 URL for Renewable Energy CSV: /Users/leozhang/Downloads/Renewable Energy.csv
 
 ![Clean Energy Word Cloud](/Users/leozhang/Desktop/geog458/labs/lab02/Images/Clean Energy.png)
+![Clean Energy](https://github.com/zyhleohao/zyhleohaolab2.github.io/assets/129431505/0c4ebada-d70b-4fdf-9774-805e723651c5)
 
 URL for Clean Energy CSV: /Users/leozhang/Downloads/Clean Energy.csv
